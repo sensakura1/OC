@@ -1,0 +1,4 @@
+interface:
+  display_name: "文档变更审批"
+  short_description: "所有文档变更先在对话中完整展示，获得用户明确批准后才写入文件"
+  default_prompt: "Use $document-change-approval to propose document changes for approval before writing files."
