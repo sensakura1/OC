@@ -1,0 +1,7 @@
+interface:
+  display_name: "默认采用 OC 世界观设计"
+  short_description: "默认作为OC创作与原创世界观设计，仅在用户明确要求时采用跑团规则"
+  default_prompt: "Use $avoid-trpg-coc-brp to treat ambiguous creative requests as OC creation and original worldbuilding, using tabletop rules only when explicitly requested."
+
+policy:
+  allow_implicit_invocation: true
