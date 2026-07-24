@@ -1,0 +1,4 @@
+interface:
+  display_name: "设定逻辑与冲突检查"
+  short_description: "在设定编写与修改前检查逻辑完备性、内部矛盾及外部冲突"
+  default_prompt: "Use $check-setting-consistency to review this setting change for logical completeness and conflicts with unchanged material."
